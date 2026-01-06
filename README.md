@@ -2,7 +2,7 @@
 
 # Jay Doolan
 
-### Frontend Developer · 24 Years of Code · Hundreds of Websites Built
+`Frontend Developer · 24 Years of Code · Hundreds of Websites Built`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jaydoolan.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jaydoolan.com)
 [![Email](https://img.shields.io/badge/Email-hello@jaydoolan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@jaydoolan.com)
