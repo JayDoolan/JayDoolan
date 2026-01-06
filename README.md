@@ -21,7 +21,7 @@
 
 I've been building websites since I was 12 — that's 24 years of turning ideas into reality on the web.
 
-From building hundreds of WordPress websites for SMEs to crafting modern Next.js applications with TypeScript, I bring a curious combination of deep web experience & modern stack expertise.
+From building hundreds of WordPress websites for SMEs to crafting modern Next.js applications with TypeScript, I bring a curious combination of deep web experience & current tech expertise.
 
 **Currently building:** [**FlowDisplay**](https://flowdisplay.com) — a workflow automation SaaS inspired by Zapier/n8n
 
@@ -80,7 +80,7 @@ From building hundreds of WordPress websites for SMEs to crafting modern Next.js
 
 ### Let's Connect
 
-Whether you're hiring, collaborating, or just want to chat about web dev—I'd love to hear from you.
+Whether you're hiring, collaborating, or just want to have a chat — I'd love to hear from you!
 
 [![Email Me](https://img.shields.io/badge/Say_Hello-hello@jaydoolan.com-6366F1?style=for-the-badge)](mailto:hello@jaydoolan.com)
 
