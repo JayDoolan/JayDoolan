@@ -4,7 +4,7 @@
 
 `Frontend Developer · 24 Years of Code · Hundreds of Websites Built`
 
-[![Website](https://img.shields.io/badge/Portfolio-jaydoolan.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jaydoolan.com)
+[![Website](https://img.shields.io/badge/Website-jaydoolan.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jaydoolan.com)
 [![Email](https://img.shields.io/badge/Email-hello@jaydoolan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@jaydoolan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaydoolan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydoolan)
 [![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ToJ1ZFkBQAJICtZZXdH7GWgWGz8ihXri)
