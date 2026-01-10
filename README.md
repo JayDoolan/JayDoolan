@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jay Doolan
+# Hi, I'm Jay 👋
 
 `Frontend Developer · Modern Tech Stack · Hundreds of Websites Built`
 
