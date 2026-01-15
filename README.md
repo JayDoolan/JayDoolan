@@ -21,7 +21,7 @@
 
 I've been building websites since I was 12 years old — which equates to 24 years web development experience.
 
-My journey spans from shipping hundreds of WordPress sites for SMEs to architecting modern, production-ready Next.js applications with TypeScript, React & Convex. I bring a rare combination of deep legacy web expertise & cutting-edge frontend skills.
+My journey spans from shipping hundreds of WordPress sites for SMEs to architecting modern, production-ready Next.js applications with TypeScript, React & Convex. I bring a combination of deep legacy web expertise with cutting-edge frontend skills.
 
 **What sets me apart:**
 - **12+ years professional WordPress development** — I know the ecosystem inside-out
