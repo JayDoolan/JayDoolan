@@ -91,15 +91,6 @@ Real-time meeting transcription and AI-assisted note-taking for remote teams.
 
 ---
 
-## 📈 Experience Highlights
-
-- **12+ years of professional WordPress development** — Hundreds of websites shipped
-- **Modern stack transition** — Actively building production-ready SaaS applications
-- **AI integration** — Claude, ChatGPT, Gemini & custom agentic workflows
-- **Responsive design expert** — Mobile-first approach to every project
-
----
-
 ## Currently Exploring
 
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
