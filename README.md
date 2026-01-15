@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-jaydoolan.com-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg==)](https://jaydoolan.com)
 [![Email](https://img.shields.io/badge/Email-hello@jaydoolan.com-EA4335?style=for-the-badge)](mailto:hello@jaydoolan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaydoolan-0A66C2?style=for-the-badge)](https://linkedin.com/in/jaydoolan)
-[![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ToJ1ZFkBQAJICtZZXdH7GWgWGz8ihXri)
+[![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/147SGEHhhuBw8ex5bNcSa_E_x8L7R7SVY)
 
 <br/>
 
