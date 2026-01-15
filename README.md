@@ -2,7 +2,7 @@
 
 # Hi, I'm Jay 👋
 
-`Frontend Developer · Modern Tech Stack · Hundreds of Websites Built`
+`Frontend Developer · Modern Stack · Hundreds of Websites Built`
 
 [![Website](https://img.shields.io/badge/Website-jaydoolan.com-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg==)](https://jaydoolan.com)
 [![Email](https://img.shields.io/badge/Email-hello@jaydoolan.com-EA4335?style=for-the-badge)](mailto:hello@jaydoolan.com)
@@ -19,21 +19,19 @@
 
 ## About Me
 
-I've been building websites since I was 12 years old — which equates to 24 years web development experience.
+My journey spans from shipping hundreds of WordPress sites for SMEs to architecting modern, production-ready Next.js applications with TypeScript, React & Convex. I bring a combination of legacy web skills with cutting-edge frontend.
 
-My journey spans from shipping hundreds of WordPress sites for SMEs to architecting modern, production-ready Next.js applications with TypeScript, React & Convex. I bring a combination of deep legacy web expertise with cutting-edge frontend skills.
-
-**What sets me apart:**
+**Experience Highlights:**
 - **12+ years professional WordPress development** — I know the ecosystem inside-out
-- **Modern stack specialist** — TypeScript, React, Next.js & Convex for serverless architecture
-- **Production-focused** — I ship real products, not just demos
+- **Modern stack transition** — Now working with TypeScript, React, Next.js & Convex for modern serverless architecture
+- **Production-focused** — I ship real, working products - not just demos
 - **AI integration** — Building the next generation of smart web apps
 
 **Currently seeking:** Frontend development role where I can leverage my WordPress expertise or modern React/Next.js skills to build exceptional user experiences.
 
 ---
 
-## Current Projects
+## Current SaaS Projects I'm Building
 
 ### [ClauseWard](https://github.com/JayDoolan/clauseward) 
 *Contract Analysis SaaS for Freelancers*  
@@ -47,12 +45,12 @@ Building a modern alternative to n8n/Zapier with an intuitive visual workflow bu
 
 ### [Meeting.ai](https://meeting-ai-silk.vercel.app)
 *AI-Powered Video Meeting Platform*  
-Real-time meeting transcription and AI-assisted note-taking for remote teams.  
+Real-time meeting transcription & AI-assisted note-taking for remote teams.  
 **Stack:** Next.js, TypeScript, Tailwind, shadcn, PostgreSQL/Neon, Better Auth, Polar
 
 ---
 
-## Current Tech Stack
+## Tech Stack
 
 ### Core Technologies
 
@@ -96,18 +94,15 @@ Real-time meeting transcription and AI-assisted note-taking for remote teams.
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-Always exploring new technologies and pushing the boundaries of what's possible on the web.
+I'm always exploring new technologies & pushing the boundaries of what's possible on the web.
 
 ---
 
 ## Connect with Me
 
-I'm actively seeking new opportunities and would love to hear about your team's needs.
+I'm actively seeking new opportunities & would love to hear about any job offers you currently have.
 
-Whether you're hiring, collaborating, or just want to chat about web development — let's talk!
-
-[![Email Me](https://img.shields.io/badge/📧_Say_Hello-hello@jaydoolan.com-6366F1?style=for-the-badge)](mailto:hello@jaydoolan.com)
-[![Schedule a Call](https://img.shields.io/badge/📞_Schedule_Call-cal.com-4285F4?style=for-the-badge)](https://cal.com/jaydoolan/15min)
+Whether you're hiring, want to collab, or just to chat about web development — let's connect 🙂
 
 <br/>
 
