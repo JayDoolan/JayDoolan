@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=24+years+of+web+development;TypeScript+%7C+React+%7C+Next.js+%7C+Convex;WordPress+expert+turned+modern+stack+dev;Building+production-ready+SaaS+applications;Open+to+new+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Convex;WordPress+expert+turned+modern+stack+dev;Building+production-ready+SaaS+applications;Open+to+new+opportunities" alt="Typing SVG" />
 
 </div>
 
