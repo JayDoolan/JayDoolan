@@ -36,7 +36,7 @@ My journey spans from shipping hundreds of WordPress sites for SMEs to architect
 ### [ClauseWard](https://github.com/JayDoolan/clauseward) 
 *Contract Analysis SaaS for Freelancers*  
 AI-powered contract review platform that helps freelancers identify risks and unfair terms instantly.  
-**Stack:** Next.js 16, TypeScript, Tailwind, shadcn/Radix, Convex, Convex Auth, Polar
+**Stack:** Next.js 16, TypeScript, Tailwind, shadcn/Radix, Convex, Better Auth, Polar
 
 ### [FlowDisplay](https://flowdisplay.com)
 *Workflow Automation SaaS Platform*  
