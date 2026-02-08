@@ -80,7 +80,7 @@ Real-time meeting transcription & AI-assisted note-taking for remote teams.
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgdmlld0JveD0iMCAwIDQwMCA0MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMCkiPgo8cGF0aCBkPSJNMjAwIC0xLjUyNTg4ZS0wNUM4OS41MzIxIC0xLjUyNTg4ZS0wNSAwIDg5LjUzMjEgMCAyMDBDMCAzMTAuNDMxIDg5LjUzMjEgNDAwIDIwMCA0MDBDMzEwLjQ2OCA0MDAgNDAwIDMxMC40NjggNDAwIDIwMEMzOTkuOTY0IDg5LjUzMjEgMzEwLjQzMSAtMS41MjU4OGUtMDUgMjAwIC0xLjUyNTg4ZS0wNVpNMTUwLjAwOSAyODMuMzA2SDExNi42OTRWMTE2LjY1OEgxNTAuMDA5VjI4My4zMDZaTTI4My4zMDYgMjgzLjMwNkgxODMuMzI0VjI0OS45OTFIMjgzLjMwNlYyODMuMzA2Wk0yODMuMzA2IDIxNi42MzlIMTgzLjMyNFYxODMuMzI0SDI4My4zMDZWMjE2LjYzOVpNMjgzLjMwNiAxNDkuOTczSDE4My4zMjRWMTE2LjY1OEgyODMuMzA2VjE0OS45NzNaIiBmaWxsPSJ3aGl0ZSIvPgo8L2c+CjxkZWZzPgo8Y2xpcFBhdGggaWQ9ImNsaXAwIj4KPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSI0MDAiIGZpbGw9IndoaXRlIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg==&logoColor=white)
 
-### Other Tools & Platform
+### Other Stuff I Use
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
