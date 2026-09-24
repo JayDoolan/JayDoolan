@@ -1,6 +1,6 @@
 # Jay Doolan
 
-Frontend and full-stack developer. I spent 12+ years building websites for small businesses, mostly on WordPress, and these days I build web apps in TypeScript, React, Next.js and Convex.
+Full-stack developer with a frontend focus. I spent 12+ years building websites for small businesses, mostly on WordPress, and these days I build web apps in TypeScript, React, Next.js and Convex.
 
 [jaydoolan.com](https://jaydoolan.com) · [hello@jaydoolan.com](mailto:hello@jaydoolan.com) · [LinkedIn](https://linkedin.com/in/jaydoolan) · [CV](https://drive.google.com/file/d/1dqPhY0JftHJijXLzzJ_zH5O7sMfslAxe/view?usp=sharing)
 
